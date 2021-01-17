@@ -7,3 +7,9 @@ StashBusters is a social, collaborative, and eco-conscious app where users share
 - Crafters that have too many craft materials lying around and/or crafters that want to inspire other crafters to creatively use craft materials they have lying around.
 - Eco-conscious individuals that believe we should try to use what we already have instead of going out to buy new supplies.
 - Any kind of crafter-- knitters, crocheters, sewists, jewelry-maker, woodworking, upcycler, thrift-flipper etc.
+
+**Collaborators**
+- Zee Nguyen
+- Miranda Adkins
+- Clara Kim
+- Fergus Scott
